@@ -53,9 +53,13 @@ Global_Sales - Total worldwide sales.
 
 ## 4. Data visualization
 1） Visualize the data by platform grouping to see which platform has higher sales in each region
-   
+![image](https://github.com/user-attachments/assets/511d52e8-f893-4834-a157-130c06386690)
+
 2） Visualize the data by game type to see which game type is more popular in each region
-   
+![image](https://github.com/user-attachments/assets/504931e8-9815-466a-870c-7257c9bf277c)
+
 3） Show sales trends in each region by year
+![image](https://github.com/user-attachments/assets/909cd28f-4520-4e83-ab81-ec73b5e34e21)
 
 ## 5. Prediction of Sales
+The data were grouped for model training and testing. Linear regression and random forest models were used to predict sales, and Mean Squared Error and R2 Score were calculated for comparison.
