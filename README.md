@@ -60,6 +60,7 @@ Global_Sales - Total worldwide sales.
 
 3） Show sales trends in each region by year
 ![image](https://github.com/user-attachments/assets/909cd28f-4520-4e83-ab81-ec73b5e34e21)
+![image](https://github.com/user-attachments/assets/5718ea2c-1a2f-4d02-bf4f-5ea90d39524b)
 
 ## 5. Prediction of Sales
 The data were grouped for model training and testing. Linear regression and random forest models were used to predict sales, and Mean Squared Error and R2 Score were calculated for comparison.
